@@ -1,0 +1,38 @@
+{
+  "v1_drop": {
+    "features": [
+      "diabetes",
+      "smoking_status",
+      "poor_hygiene",
+      "asthma",
+      "depression"
+    ],
+    "n_features": 5,
+    "k": 8,
+    "silhouette": 0.667
+  },
+  "v2_3cat": {
+    "features": [
+      "diabetes",
+      "smoking_status",
+      "poor_hygiene",
+      "asthma",
+      "depression"
+    ],
+    "n_features": 5,
+    "k": 8,
+    "silhouette": 0.5649
+  },
+  "v3_ml": {
+    "features": [
+      "diabetes",
+      "smoking_status",
+      "poor_hygiene",
+      "asthma",
+      "depression"
+    ],
+    "n_features": 5,
+    "k": 8,
+    "silhouette": 0.672
+  }
+}
